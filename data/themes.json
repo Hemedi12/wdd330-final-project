@@ -1,0 +1,37 @@
+{
+    "themes": [
+        {
+            "name": "light",
+            "colors": {
+                "primary": "#6a8dff",
+                "secondary": "#ff9e9e",
+                "accent": "#88ff9e",
+                "background": "#f8f9fa",
+                "text": "#333",
+                "card": "#ffffff"
+            }
+        },
+        {
+            "name": "dark",
+            "colors": {
+                "primary": "#4a6bff",
+                "secondary": "#ff7e7e",
+                "accent": "#6dff88",
+                "background": "#1a1a1a",
+                "text": "#f0f0f0",
+                "card": "#2d2d2d"
+            }
+        },
+        {
+            "name": "pastel",
+            "colors": {
+                "primary": "#a5c4ff",
+                "secondary": "#ffb7b7",
+                "accent": "#b5ffc3",
+                "background": "#fafafa",
+                "text": "#555",
+                "card": "#ffffff"
+            }
+        }
+    ]
+}
